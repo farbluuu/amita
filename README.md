@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rfaramita09
+- 👋 Hi, I’m @faramita09
 - 👀 I’m interested in Front-end development , UX/UI Designer
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Metaverse
