@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amita-ro (Amita Roma)
+- 👋 Hi, I’m (Amita Roma)
 - 👀 I’m interested in Front-end development ,Back-end development, UX/UI Designer ,DevOps
 - 🌱 I’m currently learning React.js 
 - 💞️ I’m looking to collaborate on Metaverse
